@@ -1,0 +1,1 @@
+This game was made in Godot so all you have to do to run it is download the EXE file and run it.
